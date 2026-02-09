@@ -54,7 +54,7 @@ Here are some of my favorite projects:
 - 🚀 **BMI Calculator** - Easily calculate your BMI
 - 💡 **Portfolio** - About me and a showcase of my skills and projects
 
-## ���� Connect with Me
+## ��� Connect with Me
 
 <div align="center">
 
