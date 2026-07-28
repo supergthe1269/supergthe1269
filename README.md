@@ -6,8 +6,8 @@
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working on **Web Programming Project**
-- 🌱 I'm currently learning **JavaScript, React**
+- 🔭 I'm currently working on **Computer Networks Project**
+- 🌱 I'm currently learning **React, MongoDB**
 - 👯 I'm looking to collaborate on **Open Source Projects**
 - ⚡ Fun fact: **I love watching anime and reading manga**
 
