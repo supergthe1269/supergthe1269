@@ -76,12 +76,12 @@ Here are some of my favorite projects:
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=supergthe1269&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+  <br><br>
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img src="https://github-stats-extended.vercel.app/api?username=supergthe1269&theme=tokyonight" alt="My GitHub stats" />
+  </a>
 </div>
-
-<br>
-
 ---
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </div>
