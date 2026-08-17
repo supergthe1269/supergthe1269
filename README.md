@@ -1,77 +1,47 @@
-# Hi there, I'm supergthe1269! 👋
+# Hi there !
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;Hi+I+am+Gaurav" alt="Typing SVG" />
-</div>
+
 
 ## 🚀 About Me
 
 - 🔭 I'm currently working on **Computer Networks Project**
-- 🌱 I'm currently learning **React, MongoDB**
+- 🌱 I'm currently learning **SQL, MongoDB**
 - 👯 I'm looking to collaborate on **Open Source Projects**
 - ⚡ Fun fact: **I love watching anime and reading manga**
 
 ## 💻 Languages
 
-<div align="center">
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![R](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 
-</div>
+## 🛠️ Tools &amp; Platforms
 
-## 🛠️ Tools & Platforms
 
-<div align="center">
-
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-
-</div>
 
 ## 📈 Activity Graph
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=supergthe1269&theme=react-dark&hide_border=true" alt="Activity Graph" />
-</div>
+
+
+## 📊 GitHub Stats
+
+
 
 ## 🔥 Recent Projects
 
 Here are some of my favorite projects:
 
-- 🎯 **Simple Calculator** - A simple HTML, CSS calculator with JS
-- 🚀 **BMI Calculator** - Easily calculate your BMI
-- 💡 **Portfolio** - About me and a showcase of my skills and projects
+- 🎯 **DivyaSetu** — Assistive Device Access &amp; Redistribution Network
+- 🚀 **Argus-0** — eBPF based ransomware/malware detection with ML
+- 💡 **OmniSight** — Behaviour Driven Continuous Micro Segmentation for Zero Trust SDN using Explainable Graph Learning
+- 🧾 **Portfolio** — https://supergthe1269.github.io/my-portfolio/ — About me and a showcase of my skills and projects
 
-## ��� Connect with Me
+## 📫 Connect with Me
 
-<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaurav-nanhe-268a52313/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://github.com/supergthe1269)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gauravnanhe2006@gmail.com)
-
-</div>
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=supergthe1269&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-</div>
 
-<div align="center">
-  💙 Thanks for visiting! Have a great day! 💙
-</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;height=100&amp;section=footer">
