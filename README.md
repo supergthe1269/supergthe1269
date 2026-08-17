@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Gaurav+👋;Welcome+to+my+GitHub+Profile!;Let's+build+something+amazing+together!+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+supergthe1269+👋;Welcome+to+my+GitHub+Profile!;Let's+build+something+amazing+together!+🚀" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -64,10 +64,10 @@ Here are some of my favorite projects:
 
 ---
 
-## 📊 GitHub Statistics
+## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=supergthe1269&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=supergthe1269&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -90,10 +90,12 @@ Here are some of my favorite projects:
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-<div align="center">
+---
 
-### 🐍 Contribution Snake
-![Snake animation](https://raw.githubusercontent.com/supergthe1269/supergthe1269/output/github-contribution-grid-snake-dark.svg)
+<div align="center">
+  
+### 💭 Quote of the Day
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
