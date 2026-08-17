@@ -81,14 +81,6 @@ Here are some of my favorite projects:
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=supergthe1269&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
-</div>
-
----
-
 ## 📫 Connect With Me
 
 <div align="center">
@@ -110,9 +102,6 @@ Here are some of my favorite projects:
 ---
 
 <div align="center">
-  
-### 💭 Quote of the Day
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 🐍 Contribution Snake
 ![Snake animation](https://raw.githubusercontent.com/supergthe1269/supergthe1269/output/github-contribution-grid-snake-dark.svg)
