@@ -64,14 +64,6 @@ Here are some of my favorite projects:
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=supergthe1269&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
-</div>
-
----
-
 ## 📫 Connect With Me
 
 <div align="center">
@@ -87,17 +79,14 @@ Here are some of my favorite projects:
 
 ## 💻 Recent Activity
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=supergthe1269&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+</div>
+
+<br>
+
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
-
----
-
-<div align="center">
-  
-### 💭 Quote of the Day
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
 
 ---
 
