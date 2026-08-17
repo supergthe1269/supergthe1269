@@ -88,6 +88,7 @@ Here are some of my favorite projects:
 
 <div align="center">
   <b>⭐️ From <a href="https://github.com/supergthe1269">Gaurav</a> with ❤️</b>
+  <br>
 </div>
 
 <div align="center">
