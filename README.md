@@ -78,7 +78,7 @@ Here are some of my favorite projects:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=supergthe1269&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
   <br><br>
   <a href="https://github.com/stats-organization/github-stats-extended">
-    <img src="https://github-stats-extended.vercel.app/api?username=supergthe1269&theme=tokyonight" alt="My GitHub stats" />
+    <img src="https://github-stats-extended.vercel.app/api?username=supergthe1269&theme=tokyonight&hide_rank=true" alt="My GitHub stats" />
   </a>
 </div>
 ---
