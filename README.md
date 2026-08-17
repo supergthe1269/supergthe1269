@@ -10,11 +10,22 @@
 
 ## 🚀 About Me
 
-- 🔭 I'm passionate about coding and building innovative solutions
-- 🌱 I'm constantly learning and exploring new technologies
-- 💡 I love working on open source projects
+- 🔭 I'm currently working on a **Computer Networks Project**
+- 🌱 I'm currently learning **SQL & MongoDB**
+- 👯 I'm looking to collaborate on **Open Source Projects**
 - 🎯 Goal: Contributing to impactful projects and growing as a developer
-- ⚡ Fun fact: I believe in the power of collaboration and continuous learning!
+- ⚡ Fun fact: **I love watching anime and reading manga!**
+
+---
+
+## 🔥 Recent Projects
+
+Here are some of my favorite projects:
+
+- 🎯 **DivyaSetu** — Assistive Device Access & Redistribution Network
+- 🚀 **Argus-0** — eBPF based ransomware/malware detection with ML
+- 💡 **OmniSight** — Behaviour Driven Continuous Micro Segmentation for Zero Trust SDN using Explainable Graph Learning
+- 🧾 **[Portfolio](https://supergthe1269.github.io/my-portfolio/)** — About me and a showcase of my skills and projects
 
 ---
 
