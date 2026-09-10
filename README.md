@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 - 🔭 I'm currently working on **CN,OS,DBMS,AI Projects**
 - 🌱 I'm currently learning **SQL & MongoDB**
@@ -14,18 +14,18 @@
 
 ---
 
-## 🔥 Recent Projects
+## Recent Projects
 
-Here are some of my favorite projects:
+Here are some of the projects I am working on:
 
-- 🎯 **DivyaSetu** — Assistive Device Access & Redistribution Network
-- 🚀 **Argus-0** — eBPF based ransomware/malware detection with ML
-- 💡 **OmniSight** — Behaviour Driven Continuous Micro Segmentation for Zero Trust SDN using Explainable Graph Learning
+- **DivyaSetu** — DBMS Project
+- **Argus-0** — OS Project
+- **OmniSight** — Behaviour Driven Continuous Micro Segmentation for Zero Trust SDN using Explainable Graph Learning
 - 🧾 **[Portfolio](https://supergthe1269.github.io/my-portfolio/)** — About me and a showcase of my skills and projects
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
 <div align="center">
 
@@ -60,7 +60,7 @@ Here are some of my favorite projects:
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 <div align="center">
   
@@ -72,11 +72,9 @@ Here are some of my favorite projects:
 
 ---
 
-## 💻 Recent Activity
+## Recent Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=supergthe1269&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
-  <br><br>
   <a href="https://github.com/stats-organization/github-stats-extended">
     <img src="https://github-stats-extended.vercel.app/api?username=supergthe1269&theme=tokyonight&hide_rank=true" alt="My GitHub stats" />
   </a>
