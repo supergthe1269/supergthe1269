@@ -6,11 +6,11 @@
 
 ## About Me
 
-- 🔭 I'm currently working on **CN,OS,DBMS,AI Projects**
-- 🌱 I'm currently learning **SQL & MongoDB**
-- 👯 I'm looking to collaborate on **Open Source Projects**
-- 🎯 Goal: Contributing to impactful projects and growing as a developer
-- ⚡ Fun fact: **I love watching anime and reading manga!**
+- I'm currently working on **CN,OS,DBMS,AI Projects**
+- I'm currently learning **SQL & MongoDB**
+- I'm looking to collaborate on **Open Source Projects**
+- Goal: Contributing to impactful projects and growing as a developer
+- Fun fact: **I love watching anime and reading manga!**
 
 ---
 
